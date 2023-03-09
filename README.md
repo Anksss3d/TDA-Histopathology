@@ -2,7 +2,7 @@
 
 This repository contains code for the Topological Data Analysis used for Histpoathology Tumor image classification. 
 
-Following files contains different code used for the experiments in this paper. 
+Following files contains different code used for the experiments in this paper. All code files contains the information about each function implemented in is as comments.
 
 ## analysis.py
 This file contains code for curves shown in the paper. Also it contains the code for generating different evaluation metrics using the confusion matrix of the test set results. 
